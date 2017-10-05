@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/.vs/config
+/AngularJSAuthentication.API/bin
+/AngularJSAuthentication.API/obj
+/AngularJSAuthentication.API/Properties/PublishProfiles
